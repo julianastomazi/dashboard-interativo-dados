@@ -1,5 +1,4 @@
-# dashboard-area-dados
-# Dashboard de Análise de Dados (Estudos - Alura)
+# Dashboard de Análise de Dados
 
 Projeto em Python para explorar dados de salários na área de dados por meio de um dashboard interativo.
 
